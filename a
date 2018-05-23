@@ -4,7 +4,7 @@
       "movie": "Avengers",
       "year": 2012,
       "rating": 7.8,
-      "duration": "141 min",
+      "duration": "141 dakika",
       "director": "Joss Whedon",
       "tagline": "Yeni bir yaş başlar",
       "cast": [
@@ -25,9 +25,9 @@
       "movie": "Interstellar",
       "year": 2014,
       "rating": 8.7,
-      "duration": "169 min",
+      "duration": "169 dakika",
       "director": "Christopher Nolan",
-      "tagline": "Mankind was born on Earth. It was never meant to die here.",
+      "tagline": "İnsanlık Dünya'da doğdu. Asla burada ölmek niyetinde değildi.",
       "cast": [
         {
           "name": "Matthew McConaughey"
@@ -43,7 +43,7 @@
         }
       ],
       "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/interstellar.jpg",
-      "story": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
+      "story": "Bir kaşif ekibi, insanlığın hayatta kalmasını sağlamak için uzayda bir solucan deliğinden geçiyor."
     },
 	{
       "movie": "Fantastic Four",
@@ -51,7 +51,7 @@
       "rating": 4.0,
       "duration": "100 min",
       "director": "Josh Trank",
-      "tagline": "Change is coming.",
+      "tagline": "Değişim geliyor.",
       "cast": [
         {
           "name": "Miles Teller"
@@ -64,15 +64,15 @@
         }
       ],
       "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/f_four.jpg",
-      "story": "Four young outsiders teleport to an alternate and dangerous universe which alters their physical form in shocking ways. The four must learn to harness their new abilities and work together to save Earth from a former friend turned enemy."
+      "story": "Dört genç yabancı, fiziksel formlarını şok edici şekillerde değiştiren alternatif ve tehlikeli bir evrene ışınlanıyor. Dördün, yeni yeteneklerini kullanmak ve Dünya'yı eski bir düşmana dönüşten kurtarmak için birlikte çalışmayı öğrenmeliyiz."
     },
 	{
       "movie": "The Dark Knight",
       "year": 2008,
       "rating": 9.0,
-      "duration": "152 min",
+      "duration": "152 dakika",
       "director": "Christopher Nolan",
-      "tagline": "Why So Serious?",
+      "tagline": "Neden bu kadar ciddi?",
       "cast": [
         {
           "name": "Christian Bale"
@@ -85,13 +85,13 @@
         }
       ],
       "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/dark_knight.jpg",
-      "story": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice."
+      "story": "Joker olarak bilinen tehdit Gotham halkına zarar verdiğinde ve kaosa sürüklendiğinde, haçlı haçlı, adaletsizlikle mücadele etme yeteneğinin en büyük psikolojik testlerinden biriyle gelmelidir."
     },
     {
       "movie": "The Lord of the Rings: The Return of the King",
       "year": 2003,
       "rating": 8.9,
-      "duration": "201 min",
+      "duration": "201 dakika",
       "director": "Peter Jackson",
       "tagline": "This Christmas the journey ends.",
       "cast": [
@@ -106,15 +106,15 @@
         }
       ],
       "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/lotr.jpg",
-      "story": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring."
+      "story": "Gandalf ve Aragorn, Sauron ordusuna karşı İnsanların Dünyasına liderlik ediyor ve Frodo ve Sam'den bakışlarını Tek Yüzükle Doom Dağı'na yaklaşırken çiziyorlar."
     },
     {
       "movie": "Life Is Beautiful",
       "year": 1997,
       "rating": 8.6,
-      "duration": "116 min",
+      "duration": "116 dakika",
       "director": "Roberto Benigni",
-      "tagline": "An unforgettable fable that proves love, family and imagination conquer all.",
+      "tagline": "Sevgiyi, aileyi ve hayal gücünü ispatlayan unutulmaz bir masal, herkesi fetheder.",
       "cast": [
         {
           "name": "Roberto Benigni"
@@ -127,15 +127,15 @@
         }
       ],
       "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/life_is_beautiful.jpg",
-      "story": "When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor and imagination to protect his son from the dangers around their camp."
+      "story": "Açık fikirli bir Yahudi kütüphaneci ve oğlu Holokost'un kurbanı olduğunda, oğlunu kamplarının etrafındaki tehlikelerden korumak için mükemmel bir irade, mizah ve hayal karışımı kullanır."
     },
     {
       "movie": "Gladiator",
       "year": 2000,
       "rating": 8.5,
-      "duration": "155 min",
+      "duration": "155 dakika",
       "director": "Ridley Scott",
-      "tagline": "Father of a murdered son, husband to a murdered wife and I shall have my vengeance in this life or the next",
+      "tagline": "Katledilen bir oğlun babası, öldürülen bir eşe kocam ve ben bu hayatımda ya da sonraki intikamımda intikamımı alacağım",
       "cast": [
         {
           "name": "Russell Crowe"
@@ -154,15 +154,15 @@
         }
       ],
       "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/gladiator.jpg",
-      "story": "When a Roman general is betrayed and his family murdered by an emperor's corrupt son, he comes to Rome as a gladiator to seek revenge."
+      "story": "Bir Roma generali ihanete uğradığında ve ailesi bir imparatorun yozlaşmış oğlu tarafından öldürüldüğünde, intikam almak için bir gladyatör olarak Roma'ya geliyor."
     },
     {
       "movie": "The Lion King",
       "year": 1994,
       "rating": 8.5,
-      "duration": "89 min",
+      "duration": "89 dakika",
       "director": "Roger Allers",
-      "tagline": "The King Has Returned.",
+      "tagline": "Kral geri döndü.",
       "cast": [
         {
           "name": "James Earl Jones"
@@ -175,15 +175,15 @@
         }
       ],
       "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/lion.jpg",
-      "story": "Lion cub and future king Simba searches for his identity. His eagerness to please others and penchant for testing his boundaries sometimes gets him into trouble."
+      "story": "Aslan yavrusu ve gelecek kral Simba kimliğini arar. Başkalarını memnun etme konusundaki istekliliği ve sınırlarını test etmek için titretmesi bazen onu belaya sokar."
     },
     {
       "movie": "WALL-E",
       "year": 2008,
       "rating": 8.4,
-      "duration": "98 min",
+      "duration": "98 dakika",
       "director": "Andrew Stanton",
-      "tagline": "He's got a lot of time on his hands.",
+      "tagline": "Ellerinde çok zaman var.",
       "cast": [
         {
           "name": "Ben Burtt"
@@ -196,15 +196,15 @@
         }
       ],
       "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/walle.jpg",
-      "story": "In the distant future, a small waste collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind."
+      "story": "Uzak gelecekte, küçük bir çöp toplama robotu yanlışlıkla insanlığın kaderini belirleyecek bir uzay yolculuğuna çıkmaktadır."
     },
     {
       "movie": "Saving Private Ryan",
       "year": 1998,
       "rating": 8.6,
-      "duration": "169 min",
+      "duration": "169 dakika",
       "director": "Steven Spielberg",
-      "tagline": "There was only one man left in the family, and the mission was to save him",
+      "tagline": "Ailede yalnız bir adam vardı ve görev onu kurtarmaktı.",
       "cast": [
         {
           "name": "Tom Hanks"
@@ -214,7 +214,7 @@
         }
       ],
       "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/saving_private_ryan.jpg",
-      "story": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action."
+      "story": "Normandiya İnişlerinin ardından, bir grup ABD askeri düşman hatlarının gerisine geçerek kardeşleri eylemde öldürülen bir paraşütçüyü geri getirdi."
     }   
   ]
 }
