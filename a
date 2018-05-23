@@ -19,7 +19,8 @@
         }
       ],
       "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/avengers.jpg",
-      "story": "When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's Mightiest Heroes to stop the villainous Ultron from enacting his terrible plans."
+      "story": "
+Tony Stark ve Bruce Banner, Ultron adında bir uyku barışçıl programını başlatmaya çalıştıklarında, işler korkunç bir şekilde yanlış oluyor ve korkunç Ultron'u korkunç planlarını yürürlüğe sokmaktan vazgeçmek için Dünya'nın En Güçlü Kahramanları'na gidiyor."
     },
     {
       "movie": "Interstellar",
