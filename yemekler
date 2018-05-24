@@ -1,0 +1,14 @@
+{"yemekler":[
+	{
+	"yemek_id":1,
+	"yemek_adi":"Mantı",
+	"yemek_aciklama":"deneme",
+	"yemek_tur":"deneme",	
+	"yemek_pisirme_suresi":"deneme",
+	"yemek_hazirlama_suresi":"deneme",
+	"yemek_kisi_sayisi":"deneme",
+	"yemek_resim":"deneme",
+	"yemek_malzemeler":"deneme"
+	},
+]}
+	
